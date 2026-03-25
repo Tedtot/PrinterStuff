@@ -1,4 +1,4 @@
-# Gates Pulley Creator
+# 2GT Pulley Creator
 
 ## Information
 Generates a 2GT pulley based on Gates spec. Use Fusion parameters to change the # of teeth, bore diameter, and pulley length.
