@@ -10,7 +10,7 @@ I highly recommend getting the clamping sleeve as it can be more difficult to ho
 
 This design is based off of [this](https://www.printables.com/model/1157086-voronmonolith-pulley-dehubbing-tool)
 
-Printables [link](https://www.printables.com/model/1450411-shorter-voronmonolith-pulley-dehubbing-tool)
+(Outdated) Printables [link](https://www.printables.com/model/1450411-shorter-voronmonolith-pulley-dehubbing-tool)
 
 ## Changelog
 ### V2-beta
