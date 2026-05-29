@@ -11,10 +11,10 @@ Printables [link](https://www.printables.com/model/1450411-shorter-voronmonolith
 ## V2-beta BOM
 |No.|Description|Qty|
 |---|---|---|
-|1.|M5x40 SHCS|1 pc|
-|2.|M5 Washer|2 pcs|
-|3.|M5 roll in T-nut/M5 hex nut|1 pc|
-|4.|2GT Pulley (6mm,9mm,12mm)|1 pc|
+|1.|M5x40 SHCS| 1|
+|2.|M5 Washer| 2|
+|3.|M5 roll in T-nut/M5 hex nut|1|
+|4.|2GT Pulley (6mm,9mm,12mm)|1|
 
 ## Changelog
 ### V2-beta
